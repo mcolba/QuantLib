@@ -17,8 +17,6 @@
 
 ---
 
-Test: Oh shoot, I shuld not change this... 
-
 The QuantLib project (<http://quantlib.org>) is aimed at providing a
 comprehensive software framework for quantitative finance. QuantLib is
 a free/open-source library for modeling, trading, and risk management
